@@ -3,7 +3,7 @@
 > An advanced AI engine built to help engineering students study smarter, not harder. Upload PYQs, predict exam questions, and generate dynamic study plans.
 
 **Founder:** Mohit Ahirwar
-**Live site:** https://emolearners.vercel.app
+**Live site:** https://emolearners.vercel.app/emoiq
 
 ---
 
